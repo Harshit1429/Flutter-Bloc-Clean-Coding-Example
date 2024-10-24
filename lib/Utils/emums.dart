@@ -1,0 +1,1 @@
+enum ApiEnum { loading , success , error }
